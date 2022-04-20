@@ -18,4 +18,4 @@ accuracy is 73.86% with first 1000 test case
 K-mean completed
 
 ##Neural Network
-accuracy is 5.40% but output pred value is constant 
+accuracy is 50% 
