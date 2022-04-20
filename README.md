@@ -15,7 +15,7 @@ accuracy calculated is 68.27%
 accuracy is 73.86% with first 1000 test case
 
 ##K-Mean Clustering
-K-mean incomplete - done for 1 iteration - couldnt manage to get more iteration working properly
+K-mean completed
 
 ##Neural Network
 accuracy is 5.40% but output pred value is constant 
