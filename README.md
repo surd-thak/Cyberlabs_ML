@@ -8,7 +8,7 @@
      The Notebook used was Google Colab.
      The Datasets are in csv format.
       
-## Features expected to be updated in near future
+## Features expected to be introduced/updated in near future
    - Some part of my code is hard-coded which shouldn't have been a case aiming for a library, hence I would want to make changes so that code can be used on any data.
    - Finding accuracy by using the algorithm on different parameter initialisation and different types of scaling and trying to understand reasons for the deviations.
    - Neutral network which as of now is 2 layered, would be much better if it has n layers which will be decided according to the wish of the user.
