@@ -34,7 +34,7 @@
      accuracy calculated is 68.27%
 
 ### K-Nearest Neighbour
-     accuracy is 73.86% with first 1000 test case
+     accuracy is 73.8% with first 1000 test case
 
 ### K-Mean Clustering
      K-mean completed
