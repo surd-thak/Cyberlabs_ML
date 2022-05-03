@@ -1,4 +1,4 @@
-# Cyberlabs Machine Leaarning division
+# Cyberlabs Machine Learning division
 # ML Bootcamp
   
   
